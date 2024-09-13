@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.title-date-container {
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  font-size: 20px;
+}
+.date,
+.description {
+  color: #616e7c;
+}

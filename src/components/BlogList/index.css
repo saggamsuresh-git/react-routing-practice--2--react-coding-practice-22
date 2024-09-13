@@ -1,0 +1,6 @@
+/* Write your CSS code here */
+.list-container {
+  list-style: none;
+  width: 100%;
+  padding: 20px;
+}
